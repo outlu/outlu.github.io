@@ -27,8 +27,8 @@
 .home .site-header .site-header-nav-item:hover {
     border-radius: 25px;
     transition: all 0.5s linear;
-    background-color: yellow;
-    color: #4183c4
+    background-color: #4183c4;
+    color: #fff
 }
 
 
