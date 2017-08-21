@@ -21,11 +21,12 @@
 }
 
 .home .site-header .site-header-nav-item {
-    color: rgba(255, 255, 255, .5)
+    color: #fff
 }
 
 .home .site-header .site-header-nav-item:hover {
-    color: #fff
+    background-color: yellow
+    
 }
 
 
