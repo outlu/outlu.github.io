@@ -1,8 +1,8 @@
 .home .banner,
 .home .site-header {
-    background: url(http://outlu.com/images/blog/blog2.jpg) no-repeat;
+    background: url(http://outlu.com/images/blog/blog3.jpg) no-repeat center center;
     color: #fff
-    background-size:cover
+    background-size:contain
 }
 
 .home .banner .collection-head {
