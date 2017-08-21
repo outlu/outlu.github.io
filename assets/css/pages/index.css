@@ -1,7 +1,8 @@
 .home .banner,
 .home .site-header {
-    background: #4183c4;
+    background: url(http://image.tianjimedia.com/uploadImages/2012/346/FFRJTM218QH5_panoramic_cityscapes2.jpg) no-repeat;
     color: #fff
+    background-size:cover
 }
 
 .home .banner .collection-head {
