@@ -78,7 +78,7 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: outlu/outlu.github.io
+#repository: outlu/outlu.github.io
 
 google:
     analytics_id: UA-80669434-1
